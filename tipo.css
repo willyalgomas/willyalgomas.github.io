@@ -1,0 +1,14 @@
+{
+            background: rgb(215, 250, 220);
+            font-family: sans-serif;
+        }
+        
+        .apples {
+            background-color: rgb(23, 66, 23);
+            color: white;
+        }
+        
+        .bananas {
+            background-color: rgb(186, 222, 187);
+            clear: both;
+        }
